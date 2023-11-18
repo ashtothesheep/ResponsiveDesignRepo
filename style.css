@@ -1,0 +1,21 @@
+body {background-color: rgb(245, 233, 219);}
+
+
+/* 
+1080p = 1920 wide 1080 height
+720p = 1280 wide and 720 high 
+2160p = 3840 wide and 2160p height
+*/
+@media screen and (min-width: 1000px) {
+    body {background-color: thistle;}
+    
+}
+
+nav {
+    display: flex;
+    width: 100dvw;
+}
+
+nav > * {
+    
+}
